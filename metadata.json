@@ -1,0 +1,7 @@
+{
+  "name": "Agência de Viagens Angola — Mobilidade & Turismo",
+  "description": "Plataforma de consultoria de viagens, passagens aéreas, vistos e pacotes turísticos com saídas de Luanda, Angola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
